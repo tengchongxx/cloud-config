@@ -2,3 +2,10 @@
 message: "测试刷新配置22222222222"
 #用以下注解来关闭认证，否则我们无权访问refresh端点
 
+
+spring:
+  cloud:
+    config:
+      username: mrbird
+      password: 123456
+
