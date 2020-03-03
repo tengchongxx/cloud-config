@@ -1,2 +1,5 @@
   
 message: "测试刷新配置"
+management:
+  security:
+    enabled: false
