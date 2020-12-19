@@ -1,4 +1,4 @@
-port:
-  server :8764
+server:
+  port :8764
   
 poo: hello this is xuxin
